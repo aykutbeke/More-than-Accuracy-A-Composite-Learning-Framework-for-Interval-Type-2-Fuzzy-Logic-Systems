@@ -6,7 +6,7 @@
 
       -you can change TypeRedMethod you can edit this field among 3 selections as "KM", "NT" and "SM",
       
-      -you can edit your rule number by changing NumRules field,
+      -you can edit your rule number by changing NumRules field but make sure that inputs also have same number of MFs as NumRules,
       
       -also you can set a parameter constant if you want to define it not learnable as defining like MF1L='mf1L':'gaussmf','[Sigma 0.5 pm]' instead MF1L='mf1L':'gaussmf','[Sigma Z pm]' so that you set the center parameter as not learnable and constant as 0.5.    
  
