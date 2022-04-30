@@ -1,0 +1,13 @@
+% [System]
+% Name='testT1FCM'
+% Type='sugeno'
+% Version=2.0
+% TypeRedMethod='KM','SM','NT'
+% NumInputs=1
+% NumOutputs=1
+% NumRules=5
+% AndMethod='prod'
+% OrMethod='probor'
+% ImpMethod='prod'
+% AggMethod='sum'
+% DefuzzMethod='wtaver'
