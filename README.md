@@ -2,7 +2,7 @@
 Matlab implementation of the composite learning algorithm in the following paper:
 
 ```
-A. Beke and T. Kumbasar, "XXXXXXXXXx,"
+A. Beke and T. Kumbasar, "More than Accuracy: A Composite Learning Framework for Interval Type-2 Fuzzy Logic Systems," _IEEE Transaction on Fuzzy Systems_. 
 ```
 We kindly ask that to cite the above mentioned paper if you use Composite Learning Framework for Interval Type-2 Fuzzy Logic Systems and you publish papers about work that was performed using these codes.
 
